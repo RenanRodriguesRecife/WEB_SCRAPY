@@ -1,0 +1,1 @@
+Learn Scrapy with a project based example - https://www.youtube.com/watch?v=pSyiJKdCKtc
